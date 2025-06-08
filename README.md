@@ -2,6 +2,9 @@
 # Upgrade Procedure for a kubeadm Cluster from v1.28 to v1.29
 
 This document details the step-by-step process for upgrading a kubeadm-managed Kubernetes cluster from version 1.28 to 1.29.
+The same steps can be used to perform upgrading k8s to the latest version 1.33, which I've done already in my home lab.
+
+Engaging in this structured learning exercise—by performing the complete upgrade cycle for each version increment from 1.29 to 1.33—served as a catalyst for deeper technical inquiry. Each iteration demystified another layer of the system, reinforcing my understanding of cluster operations and providing a lucid perspective on the architectural principles of Kubernetes
 
 ## Cluster Topology:
 
